@@ -2,7 +2,7 @@ Basic code for Coding Test
 
 Programming Language : Python 
 
-reference : Code up
+Reference : Code-up
 
 -------------
 
